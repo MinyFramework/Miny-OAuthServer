@@ -1,0 +1,12 @@
+{
+  "name": "miny/oauth-server",
+  "description": "OAuthServer module for the Miny Framework",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dániel Buga",
+      "email": "bugadani@gmail.com"
+    }
+  ]
+}
